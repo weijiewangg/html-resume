@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.headshot{
+    height: 300px;
+    border-radius: 80%;
+    margin-top: 20px;
+}
+
+.text{
+    margin-top: 30px;
+}
